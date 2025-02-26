@@ -30,8 +30,8 @@
 ## 🙌 담당 직무(개인수정)
 | 이름   | GitHub                              | 직무              |해당 |
 |:--------:|:---------------------------------------:|:-------------------:|:----:|
-| 김도연 | [doyeon](https://github.com/dododoodo) | 팀장 |     |
-| **여태경** | [taekyung](https://github.com/ytk27) | 개발 |   ✔   |
+| **김도연** | [doyeon](https://github.com/dododoodo) | 팀장 |  ✔  |
+| 여태경 | [taekyung](https://github.com/ytk27) | 개발 |      |
 | 천지호 | [jiho](https://github.com/jiho8) | 디자인 |    |
 | 황수빈 | [subin](https://github.com/subin75) | 기획 |       |
 

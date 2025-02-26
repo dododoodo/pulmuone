@@ -129,19 +129,18 @@
 [Pulmuone Final report](https://docs.google.com/document/d/1aJEeiRj6KTTmHOR-td0581_aCYqC4mwfAMuKh7tZVO4/edit?usp=sharing)
 
 ---
-# 담당 개발 상세 : (개인수정)
+# 담당 개발 상세 : 
 
 ## 📑 요약
 
 - **담당 직무**
 
-   : 개발
+   : 총괄 팀장, 기획 및 개발
   
 - **담당 페이지**
 
-   : [메인](https://seoulw.vercel.app/),
-  [에러페이지](https://seoulw.vercel.app/err),
-  [이용약관](https://seoulw.vercel.app/policy)
+   : [메인](https://dododoodo.github.io/pulmuone/),
+  [뉴스룸](https://dododoodo.github.io/pulmuone/news_enter.html)
   ${\color{#cccccc}(클릭\ 시\ 해당\ 페이지로\ 이동합니다.)}$
 
 - **역할** 
